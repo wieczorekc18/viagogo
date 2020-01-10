@@ -1,0 +1,17 @@
+
+
+.event{
+    width: 600px;
+    margin: 40px;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+.container{
+    width: 400px;
+    display: flex;
+}
+
+body{
+    margin-left: 30px;
+}
